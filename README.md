@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-happy
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungma&layout=compact)](https://github.com/jungma/github-readme-stats)
+
 
 <!--
 **jungma/jungma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
